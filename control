@@ -1,0 +1,9 @@
+Package: com.gilesgc.vibe
+Name: Vibe
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Give any app notification a custom vibration pattern
+Maintainer: gilesgc
+Author: gilesgc
+Section: Tweaks
