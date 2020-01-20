@@ -4,7 +4,7 @@
 @interface BBSound : NSObject
 - (TLAlertConfiguration *)alertConfiguration;
 @end
-//TLAlertConfiguration *
+
 @interface BBBulletinRequest : NSObject
 - (NSString *)sectionID;
 - (BBSound *)sound;
